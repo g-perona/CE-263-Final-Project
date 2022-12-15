@@ -1,0 +1,4 @@
+,n,m,k_avg,edge_length_total,edge_length_avg,streets_per_node_avg,intersection_count,street_length_total,street_segment_count,street_length_avg,circuity_avg,median_income,agg_travel_time_min,pct_workers_who_commute
+"Census Tract 1895, Los Angeles County",25.0,39.0,3.12,27157.713,696.352,3.12,25.0,13647.34,20.0,682.367,1.141,54265.0,67505.0,0.5162679425837321
+"Census Tract 4623.01, Los Angeles County",129.0,264.0,4.093,44776.313,169.607,2.899,112.0,26493.982,135.0,196.252,1.017,57898.0,75885.0,0.5021842355175689
+"Census Tract 26.01, Fresno County",26.0,35.0,2.692,21750.057,621.43,3.423,26.0,15722.496,25.0,628.9,1.104,31982.0,30110.0,0.32850533091933215
